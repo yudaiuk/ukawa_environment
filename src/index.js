@@ -1,3 +1,4 @@
-import { hello } from "./sub";
+import { text_animation } from "./text_animation";
 
-hello();
+text_animation();
+console.log("テスト");
